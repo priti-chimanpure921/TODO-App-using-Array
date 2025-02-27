@@ -2,7 +2,7 @@
 
 Array Data structure is used to store tasks.
 
-list : to list all the tasks
+<h3>list : to list all the tasks</h3>
 add : to add a new task
 delete : to delete any task 
 quit : to exit the app
